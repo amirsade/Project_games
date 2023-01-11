@@ -4,8 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f529c088-edd5-4dbf-9fc1-c77920cab1a2" name="Changes" comment="commit Change!">
-      <change beforePath="$PROJECT_DIR$/scoreboard.py" beforeDir="false" afterPath="$PROJECT_DIR$/scoreboard.py" afterDir="false" />
+    <list default="true" id="f529c088-edd5-4dbf-9fc1-c77920cab1a2" name="Changes" comment="reset">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/food.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/snake.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +48,9 @@
       <option name="presentableId" value="Default" />
       <updated>1672651568499</updated>
       <workItem from="1672651572061" duration="8992000" />
-      <workItem from="1673435210594" duration="10287000" />
+      <workItem from="1673435210594" duration="10619000" />
+      <workItem from="1673446382737" duration="38000" />
+      <workItem from="1673446430872" duration="3000" />
     </task>
     <task id="LOCAL-00001" summary="commit Change!">
       <created>1673445546420</created>
@@ -61,7 +66,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673445754117</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="reset">
+      <created>1673446027832</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1673446027832</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -80,7 +92,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="commit Change!" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit Change!" />
+    <MESSAGE value="reset" />
+    <option name="LAST_COMMIT_MESSAGE" value="reset" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -95,7 +108,7 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Project_games$ball.coverage" NAME="ball Coverage Results" MODIFIED="1672662180639" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pong_game" />
-    <SUITE FILE_PATH="coverage/Project_games$main.coverage" NAME="main Coverage Results" MODIFIED="1673444461866" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pong_game" />
+    <SUITE FILE_PATH="coverage/Project_games$main.coverage" NAME="main Coverage Results" MODIFIED="1673446119967" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pong_game" />
     <SUITE FILE_PATH="coverage/Project_games$paddle.coverage" NAME="paddle Coverage Results" MODIFIED="1672661402597" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pong_game" />
   </component>
 </project>
