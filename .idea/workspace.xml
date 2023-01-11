@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f529c088-edd5-4dbf-9fc1-c77920cab1a2" name="Changes" comment="reset">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/food.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/snake.py" beforeDir="false" />
-    </list>
+    <list default="true" id="f529c088-edd5-4dbf-9fc1-c77920cab1a2" name="Changes" comment="change_new!" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -51,6 +46,7 @@
       <workItem from="1673435210594" duration="10619000" />
       <workItem from="1673446382737" duration="38000" />
       <workItem from="1673446430872" duration="3000" />
+      <workItem from="1673446456331" duration="369000" />
     </task>
     <task id="LOCAL-00001" summary="commit Change!">
       <created>1673445546420</created>
@@ -73,7 +69,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673446027832</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="change_new!">
+      <created>1673446504297</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1673446504297</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -93,7 +96,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="commit Change!" />
     <MESSAGE value="reset" />
-    <option name="LAST_COMMIT_MESSAGE" value="reset" />
+    <MESSAGE value="change_new!" />
+    <option name="LAST_COMMIT_MESSAGE" value="change_new!" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
