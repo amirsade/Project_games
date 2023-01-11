@@ -30,8 +30,8 @@ class Snake:
 
     def move(self):
         for item in range(len(self.snakes)-1, 0, -1):
-            new_x = self.snakes[item - 1].xcor()
-            new_y = self.snakes[item - 1].ycor()
+            new_x = self.snakes[item - 1].x_move()
+            new_y = self.snakes[item - 1].y_move()
             self.snakes[item].goto(x=new_x, y=new_y)
         self.head.forward(move_distance)
 

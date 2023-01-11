@@ -26,7 +26,7 @@ while is_race_on:
         food.refresh()
         snake.extend()
         score.change_score()
-    if snake.head.xcor() > 285 or snake.head.xcor() < -285 or snake.head.ycor() > 285 or snake.head.ycor() < -285:
+    if snake.head.x_move() > 285 or snake.head.x_move() < -285 or snake.head.y_move() > 285 or snake.head.y_move() < -285:
         is_race_on = False
         score.game_over()
     for segment in snake.snakes[1:]:
